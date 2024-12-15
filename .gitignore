@@ -1,3 +1,5 @@
 *.fits
 testing/
 __pycache__/
+joblib/
+_test.py
